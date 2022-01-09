@@ -1,0 +1,173 @@
+.bagiantabs {
+  width: 100%;
+}
+
+.bagiantabs .picked1 {
+  color: white;
+  border-bottom: 2px white solid;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.bagiantabs .picked2 {
+  color: white;
+  border-bottom: 2px white solid;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: 550;
+}
+
+.bagiantabs .unpicked1 {
+  color: white;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.bagiantabs .unpicked2 {
+  color: white;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.bagiantabs .bagiantabs .tabs {
+  color: white;
+  display: flex;
+  width: 100%;
+}
+
+.bagiantabs .kontentabs {
+  background-color: #163c80;
+
+  width: 100%;
+}
+
+.bagiantabs ul {
+  list-style-type: none;
+  margin-top: -10px;
+  margin-bottom: 0px;
+  display: flex;
+  margin-left: -40px;
+}
+
+.bagiantabs li {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.bagiantabs .passengercar {
+  display: flex;
+  padding-top: 25px;
+  border-bottom: 2px solid lightgray;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-bottom: 15px;
+}
+
+.bagiantabs .passengercar .desk {
+  display: flex;
+  flex-direction: column;
+  margin-left: 7px;
+  margin-top: 10px;
+}
+
+.bagiantabs .passengercar .desk button {
+  width: 100px;
+  margin-bottom: 0px;
+  font-size: 12px;
+  padding: 3px;
+  margin-top: 10px;
+  border: 1px solid #1f75e1;
+  border-radius: 3px;
+  color: #1f75e1;
+  background-color: rgb(244, 247, 248);
+}
+
+.bagiantabs .commercialcar {
+  display: flex;
+  padding-top: 25px;
+  border-bottom: 2px solid lightgray;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-bottom: 15px;
+}
+
+.bagiantabs .commercialcar .desk {
+  display: flex;
+  flex-direction: column;
+  margin-left: 7px;
+  margin-top: 10px;
+}
+
+.bagiantabs .commercialcar .desk button {
+  width: 100px;
+  margin-bottom: 0px;
+  font-size: 12px;
+  padding: 3px;
+  margin-top: 10px;
+  border: 1px solid #1f75e1;
+  border-radius: 3px;
+  color: #1f75e1;
+  background-color: rgb(244, 247, 248);
+}
+
+.bagiantabs .gambar {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.bagiantabs .gambar img {
+  height: 120px;
+}
+
+.bagiantabs .isi {
+  background-color: white;
+}
+
+.bagiantabs .bagiantabs {
+  width: 100%;
+}
+
+.bagiantabs .desk h {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.bagiantabs .desk p1 {
+  font-size: 12px;
+  font-weight: 400;
+  font-style: italic;
+  color: grey;
+}
+
+.bagiantabs .desk p2 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #163c80;
+}
+
+.bagiantabs .buttonbottom {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding-top: 20px;
+}
+
+.bagiantabs .buttonbottom button {
+  width: max-content;
+  background-color: white;
+}
+
+.bagiantabs .buttonbottom button:hover {
+  width: max-content;
+  background-color: #163c80;
+  color: white;
+}

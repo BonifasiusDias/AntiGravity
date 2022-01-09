@@ -1,0 +1,64 @@
+.spesifikasi {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.spesifikasi button {
+  width: 70%;
+  display: flex;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border: none;
+}
+
+.spesifikasi button:hover {
+  width: 70%;
+  display: flex;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border: none;
+  background-color: #f1f5f6;
+}
+
+.spesifikasi button p {
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 222px;
+  color: black;
+}
+.spesifikasi button .icon {
+  width: 20px;
+  height: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: black;
+}
+
+.spesifikasi .coba {
+  margin-left: -40px;
+  margin-top: -50px;
+  width: 310px;
+  background-color: white;
+  border: 1px solid gray;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.spesifikasi .coba2 {
+  padding: 10px;
+}
+
+.spesifikasi .penjelasan {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(255, 255, 255, 0);
+  width: 100%;
+  margin-top: -20px;
+}
+.spesifikasi .penjelasan h {
+  width: 70%;
+  font-size: 14px;
+}
+.spesifikasi .penjelasan p {
+  font-size: 14px;
+}

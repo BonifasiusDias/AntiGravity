@@ -1,0 +1,111 @@
+.nextarrow {
+  display: absolute;
+  right: 0;
+  z-index: 30;
+  opacity: 70%;
+}
+
+.nextarrow button {
+  float: right;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  margin-top: -220px;
+  border-radius: 25px;
+}
+
+.nextarrow .icon {
+  padding: 1;
+  width: 15px;
+  height: 15px;
+  background-color: none;
+
+  height: 20px;
+  width: 20px;
+  margin-top: -10px;
+  margin-left: -9px;
+}
+
+.prevarrow {
+  display: absolute;
+  left: 0;
+  z-index: 100;
+  opacity: 70%;
+}
+
+.prevarrow button {
+  float: left;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+  margin-right: 100px;
+  margin-top: -210px;
+}
+
+.prevarrow .icon {
+  padding: 1;
+  width: 15px;
+  height: 15px;
+  background-color: none;
+  border-radius: 25px;
+  height: 20px;
+  width: 20px;
+  margin-top: 20px;
+}
+
+.carousel {
+  background-color: #f1f5f6;
+  width: 450px;
+  margin-left: 450px;
+  display: relative;
+}
+
+.carousel img {
+  width: 450px;
+  height: 400px;
+  z-index: -100;
+}
+
+.slick-dots {
+  bottom: 10px;
+  left: 10px;
+  text-align: unset;
+}
+
+.slick-prev,
+.slick-next {
+  color: unset;
+  background: unset;
+  /* border-radius: 9999px;
+    border: 1px solid #c0c0c0;
+    font-size: 20px;
+    background: #fff;
+    z-index: 9999px; */
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  color: unset;
+  background: unset;
+}
+
+.slick-dots.slick-thumb li {
+  width: 6px;
+  height: 6px;
+  margin: 0 3px;
+  border-radius: 999px;
+  transition: all 0.5s ease-in-out;
+  will-change: width;
+  background-color: black;
+}
+
+.slick-dots.slick-thumb li.slick-active {
+  background-color: white;
+  width: 24px;
+}
+
+/* .slick-slide {
+    padding-right: 1px;
+    padding-left: 1px;
+} */

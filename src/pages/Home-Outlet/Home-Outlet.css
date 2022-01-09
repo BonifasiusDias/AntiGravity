@@ -1,0 +1,107 @@
+.background {
+  background-color: #f1f5f6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.max-width {
+  max-width: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divheader {
+  height: 63px;
+}
+
+.homeoutlet .bg-biru {
+  background-color: #163c80;
+  width: 450px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bg-biru h1 {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.servis {
+  background-image: url("../../assets/Rectangle\ 17.png");
+  width: 100%;
+}
+.layer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: rgba(17, 44, 90, 0.479);
+
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.servis .layer h {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  padding-top: 50px;
+}
+
+.servis .layer p1 {
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.servis .layer button {
+  margin-top: 35px;
+  margin-bottom: 45px;
+  background: none;
+  border-color: white;
+  color: white;
+  width: 40%;
+  padding: 12px;
+}
+
+.aksesoris {
+  background-image: url("../../assets/Aksesorisbg.png");
+  width: 100%;
+}
+
+.aksesoris .layer h {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.aksesoris .layer p1 {
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+}
+.aksesoris .layer .titleatas {
+  padding-top: 50px;
+}
+
+.aksesoris .layer button {
+  margin-top: 35px;
+  margin-bottom: 45px;
+  background: none;
+  border-color: white;
+  color: white;
+  width: 40%;
+  padding: 12px;
+}
+
+.karusel {
+  display: block;
+  background-color: #f1f5f6;
+}

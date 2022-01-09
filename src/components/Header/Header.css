@@ -1,0 +1,124 @@
+.header {
+  height: 63px;
+  background-color: white;
+  display: flex;
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+}
+.header .logodiv {
+  width: 75%;
+  margin-left: 12px;
+  margin-top: 12px;
+}
+.header .logodiv .logo {
+}
+
+.navbar {
+  margin-left: 1275px;
+  margin-top: 12px;
+  position: fixed;
+  z-index: 100;
+}
+
+.navbar .button {
+  height: 40px;
+  width: 40px;
+  border: none;
+  border-radius: 25px;
+  background-color: #163c80;
+  transition: all 0.3s ease;
+}
+
+.navbar .icon {
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.navbar .sidemenu {
+  margin-top: -12px;
+  margin-left: -210px;
+  height: 720px;
+  width: 300px;
+  background-color: white;
+  transition: all 0.3s ease;
+}
+
+.navbar .sidemenu .atas {
+  height: 40px;
+  width: 40px;
+  border: none;
+  border-radius: 25px;
+  background-color: #163c80;
+  margin-left: 225px;
+  margin-top: 10px;
+}
+
+.navbar .sidemenu .icon {
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.sidemenu .menu li {
+  list-style-type: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.sidemenu .menu {
+  margin-left: 20px;
+  border-bottom: 2px solid gray;
+  margin-right: 25px;
+  padding-bottom: 10px;
+  margin-top: -30px;
+}
+
+.sidemenu .telfontombol button {
+  margin-top: 10px;
+  display: flex;
+  background-color: #163c80;
+  color: white;
+  margin-left: 40px;
+  padding: 5px;
+  width: 200px;
+}
+
+.sidemenu .telfon .icontelfon {
+  color: white;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 35px;
+}
+
+.sidemenu .gambargambar {
+  display: flex;
+  margin-top: -20px;
+}
+
+.sidemenu .gambargambar img {
+  height: 100px;
+}
+
+.sidemenu .gambargambar .gambar2 {
+  width: 185px;
+  height: 80px;
+  margin-top: 10px;
+}
+
+.sidemenu .copyrightbawah {
+  color: black;
+  font-size: 14;
+  margin-left: 20px;
+}
+
+.sidemenu .copyrightbawah .line2 {
+  margin-top: -20px;
+}
+
+.backgroundsidemenu {
+  width: 100%;
+  background-color: black;
+  position: fixed;
+}

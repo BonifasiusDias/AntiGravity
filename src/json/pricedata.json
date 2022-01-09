@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "mobil": "XL7 ZETA M/T",
+      "harga": "232.000.000"
+    },
+    {
+      "mobil": "XL7 ZETA A/T",
+      "harga": "242.400.000"
+    },
+    {
+      "mobil": "XL7 BETA M/T",
+      "harga": "248.500.000"
+    },
+    {
+      "mobil": "XL7 BETA A/T",
+      "harga": "259.000.000"
+    },
+    {
+      "mobil": "XL7 ALPHA M/T",
+      "harga": "258.500.000"
+    },
+    {
+      "mobil": "XL7 ALPHA A/T",
+      "harga": "269.000.000"
+    }
+  ]
+}

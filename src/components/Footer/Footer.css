@@ -1,0 +1,148 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer h1 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+/*bottommenu*/
+.footer .bottommenu {
+  display: flex;
+  align-items: center;
+}
+
+.footer .bottommenu p {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.footer .bottommenu p:hover {
+  color: #163c80;
+}
+
+/*alamat*/
+.footer .alamat {
+  width: 98%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-top: 2px groove;
+  border-bottom: 2px groove;
+}
+
+.footer .alamat p1 {
+  font-weight: 640;
+}
+
+.footer .alamat .locationbutton {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  height: 45px;
+  background-color: white;
+  border: 2px solid #163c80;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+  margin-top: 15px;
+}
+
+.footer .alamat .locationbutton:hover {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  height: 45px;
+  background-color: #163c80;
+
+  border-color: #163c80;
+  border-radius: 3px;
+}
+
+.footer .alamat .locationbutton p {
+  margin-left: 8px;
+  color: #163c80;
+}
+
+.footer .alamat .locationbutton:hover p {
+  margin-left: 8px;
+  color: white;
+}
+
+.footer .alamat .locationlogo {
+  width: 25px;
+  height: 25px;
+  margin-left: 6px;
+  color: #163c80;
+}
+
+.footer .alamat .locationlogo:hover {
+  width: 25px;
+  height: 25px;
+  margin-left: 6px;
+  color: white;
+}
+
+.footer .alamat .phonebutton {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  height: 45px;
+  background-color: #163c80;
+  color: white;
+  border: 2px solid #163c80;
+  border-radius: 3px;
+  margin-top: -15px;
+  margin-bottom: 20px;
+}
+
+.footer .alamat .phonebutton p {
+  margin-left: 10px;
+  margin-right: auto;
+  color: white;
+}
+
+.footer .alamat .phone {
+  width: 25px;
+  height: 25px;
+  color: white;
+  margin-left: 25px;
+}
+
+/*hotline*/
+.footer .hotline {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer .hotline h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.footer .hotline img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*copyright*/
+.footer .copyright {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #163c80;
+  height: 112px;
+}
+
+.footer .copyright p {
+  color: white;
+  margin-top: 30px;
+}
+
+.footer .copyright .line2 {
+  margin-top: -15px;
+}

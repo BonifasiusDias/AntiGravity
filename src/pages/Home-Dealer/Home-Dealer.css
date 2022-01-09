@@ -1,0 +1,87 @@
+.background {
+  background-color: #f1f5f6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.max-width {
+  max-width: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.homedealer .bg-biru {
+  background-color: #163c80;
+  width: 450px;
+  height: 280px;
+}
+
+.bg-biru-2 {
+  background-color: #163c80;
+  width: 450px;
+  height: 220px;
+}
+
+.isi1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.isi1 h {
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+}
+
+.isi1 .title {
+  margin-top: -175px;
+}
+
+.isi1 .title-2 {
+  margin-bottom: 20px;
+}
+
+.isi2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.isi2 h {
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+}
+
+.isi2 .promotitle-1 {
+  margin-top: -175px;
+}
+
+.isi2 .promotitle-2 {
+  margin-bottom: 35px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+button {
+  border-radius: 3px;
+  background-color: none;
+  border: #163c80 2px solid;
+  color: #163c80;
+  font-weight: 600;
+  width: 50%;
+  padding: 12px;
+  margin-bottom: 35px;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  border-radius: 3px;
+  background-color: #163c80;
+  border: #163c80 2px solid;
+  color: white;
+  font-weight: 600;
+
+  padding: 12px;
+}
