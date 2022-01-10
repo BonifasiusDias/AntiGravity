@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/AntiGravity/static/css/main.199d5526.chunk.css",
+    "main.js": "/AntiGravity/static/js/main.2cd2f553.chunk.js",
+    "main.js.map": "/AntiGravity/static/js/main.2cd2f553.chunk.js.map",
+    "runtime-main.js": "/AntiGravity/static/js/runtime-main.004e9ed5.js",
+    "runtime-main.js.map": "/AntiGravity/static/js/runtime-main.004e9ed5.js.map",
+    "static/css/2.0aea24ac.chunk.css": "/AntiGravity/static/css/2.0aea24ac.chunk.css",
+    "static/js/2.a068a11c.chunk.js": "/AntiGravity/static/js/2.a068a11c.chunk.js",
+    "static/js/2.a068a11c.chunk.js.map": "/AntiGravity/static/js/2.a068a11c.chunk.js.map",
+    "static/js/3.c390bf4c.chunk.js": "/AntiGravity/static/js/3.c390bf4c.chunk.js",
+    "static/js/3.c390bf4c.chunk.js.map": "/AntiGravity/static/js/3.c390bf4c.chunk.js.map",
+    "index.html": "/AntiGravity/index.html",
+    "static/css/2.0aea24ac.chunk.css.map": "/AntiGravity/static/css/2.0aea24ac.chunk.css.map",
+    "static/css/main.199d5526.chunk.css.map": "/AntiGravity/static/css/main.199d5526.chunk.css.map",
+    "static/js/2.a068a11c.chunk.js.LICENSE.txt": "/AntiGravity/static/js/2.a068a11c.chunk.js.LICENSE.txt",
+    "static/media/Home-Outlet.css": "/AntiGravity/static/media/Rectangle 17.26f8d23a.png",
+    "static/media/Carousel.94d6ed9f.png": "/AntiGravity/static/media/Carousel.94d6ed9f.png",
+    "static/media/GambarOutlet.a232985e.png": "/AntiGravity/static/media/GambarOutlet.a232985e.png",
+    "static/media/HaloZuzuki.74cb1293.png": "/AntiGravity/static/media/HaloZuzuki.74cb1293.png",
+    "static/media/XL7.css": "/AntiGravity/static/media/interior2second.6595d5f4.png",
+    "static/media/MyZuzuki.663a5539.png": "/AntiGravity/static/media/MyZuzuki.663a5539.png",
+    "static/media/commercialcar.35a6321c.png": "/AntiGravity/static/media/commercialcar.35a6321c.png",
+    "static/media/gambarPromo.ec7d11bd.png": "/AntiGravity/static/media/gambarPromo.ec7d11bd.png",
+    "static/media/gear.5ca6a545.png": "/AntiGravity/static/media/gear.5ca6a545.png",
+    "static/media/karuseloutlet.f3f08dfc.png": "/AntiGravity/static/media/karuseloutlet.f3f08dfc.png",
+    "static/media/orange.99b86953.png": "/AntiGravity/static/media/orange.99b86953.png",
+    "static/media/passengercar.332e637d.png": "/AntiGravity/static/media/passengercar.332e637d.png",
+    "static/media/slick-theme.css": "/AntiGravity/static/media/slick.c94f7671.ttf",
+    "static/media/white.33fb73fa.png": "/AntiGravity/static/media/white.33fb73fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.004e9ed5.js",
+    "static/css/2.0aea24ac.chunk.css",
+    "static/js/2.a068a11c.chunk.js",
+    "static/css/main.199d5526.chunk.css",
+    "static/js/main.2cd2f553.chunk.js"
+  ]
+}
