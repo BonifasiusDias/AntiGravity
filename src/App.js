@@ -5,7 +5,7 @@ import Produk from "./pages/XL7/XL7";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/AntiGravity">
         <Switch>
           <Route path="/" exact render={() => <HomeDealer />} />
           <Route path="/outlet" exact render={() => <HomeOutlet />} />
